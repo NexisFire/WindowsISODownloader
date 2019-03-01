@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.webBrowser1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Windows 10 ISO Downloader";
             this.ResumeLayout(false);
 
         }
